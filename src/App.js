@@ -4,7 +4,12 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-     <h1>Hello world</h1>
+     <ChatEngine
+       height="100vh"
+       projectID="bbf2c177-e47d-48bb-bf01-249d5b477766"
+       username="isra0110"
+       userSecret="123456"
+      />
     </div>
   );
 }
